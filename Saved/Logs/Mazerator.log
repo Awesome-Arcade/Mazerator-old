@@ -1,0 +1,1156 @@
+﻿Log file open, 12/08/19 13:23:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Mazerator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.892821
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD A6-9225 RADEON R4, 5 COMPUTE CORES 2C+3G   , GPU: AMD Radeon(TM) R4 Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.08-13.23.53:867][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.08-13.23.53:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:868][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:873][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-13.23.53:873][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-13.23.53:874][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-13.23.53:875][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-13.23.53:875][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-13.23.53:875][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.08-13.23.53:882][  0]LogHAL: Display: Platform has ~ 4 GB [4175093760 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.08-13.23.53:882][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.08-13.23.53:883][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-13.23.53:883][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-13.23.53:884][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-13.23.53:885][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.08-13.23.53:885][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.08-13.23.53:885][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.08-13.23.53:885][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Config/Windows/Engine.ini]
+[2019.12.08-13.23.53:885][  0]LogInit: Computer: LAPTOP-70F41ERQ
+[2019.12.08-13.23.53:886][  0]LogInit: User: ivan
+[2019.12.08-13.23.53:886][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.08-13.23.53:886][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.08-13.23.53:886][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.12.08-13.23.53:886][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-13.23.53:886][  0]LogMemory: Process Physical Memory: 103.58 MB used, 103.59 MB peak
+[2019.12.08-13.23.53:886][  0]LogMemory: Process Virtual Memory: 99.99 MB used, 99.99 MB peak
+[2019.12.08-13.23.53:886][  0]LogMemory: Physical Memory: 2048.55 MB used,  1933.13 MB free, 3981.68 MB total
+[2019.12.08-13.23.53:886][  0]LogMemory: Virtual Memory: 4651.91 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.08-13.23.53:919][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.08-13.23.54:444][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.08-13.23.54:444][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.08-13.23.54:446][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.08-13.23.55:496][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.08-13.23.56:103][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.08-13.23.56:103][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.08-13.23.59:385][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-13.23.59:385][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.08-13.23.59:786][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R4 Graphics' (Feature Level 11_0)
+[2019.12.08-13.23.59:786][  0]LogD3D11RHI:       64/0/1990 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.12.08-13.23.59:849][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.08-13.23.59:849][  0]LogD3D11RHI:       0/0/1990 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.08-13.23.59:849][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.08-13.23.59:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.08-13.23.59:868][  0]LogD3D11RHI:     GPU DeviceId: 0x98e4 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.08-13.23.59:868][  0]LogWindows: EnumDisplayDevices:
+[2019.12.08-13.23.59:868][  0]LogWindows:    0. 'AMD Radeon(TM) R4 Graphics' (P:1 D:1)
+[2019.12.08-13.23.59:869][  0]LogWindows:    1. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2019.12.08-13.23.59:870][  0]LogWindows:    2. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2019.12.08-13.23.59:871][  0]LogWindows:    3. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2019.12.08-13.23.59:872][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.08-13.23.59:872][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R4 Graphics
+[2019.12.08-13.23.59:872][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.10.08.01 (internal:26.20.11008.1007, unified:26.20.11008.1007)
+[2019.12.08-13.23.59:872][  0]LogD3D11RHI:      Driver Date: 5-4-2019
+[2019.12.08-13.23.59:872][  0]LogRHI: Texture pool is 696 MB (70% of 995 MB)
+[2019.12.08-13.24.00:268][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.08-13.24.00:291][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2019.12.08-13.24.02:152][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.08-13.24.02:189][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.08-13.24.02:220][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.08-13.24.02:250][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.08-13.24.02:280][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.08-13.24.02:343][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.08-13.24.02:364][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.08-13.24.02:388][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.08-13.24.02:398][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.08-13.24.02:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.08-13.24.02:501][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.08-13.24.02:662][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.08-13.24.02:662][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.08-13.24.02:709][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.08-13.24.02:709][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.08-13.24.02:733][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.08-13.24.02:760][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.08-13.24.02:776][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.08-13.24.02:795][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.08-13.24.02:927][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.08-13.24.02:927][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.08-13.24.02:927][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.08-13.24.03:038][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.08-13.24.03:656][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Intermediate/Shaders/WorkingDirectory/8208/).
+[2019.12.08-13.24.03:657][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ivan_/AppData/Local/Temp/UnrealShaderWorkingDir/4AA994EE4577A8B22825CBADCA41F301/'.
+[2019.12.08-13.24.03:689][  0]LogXGEController: Cleaning working directory: C:/Users/ivan_/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.08-13.24.03:689][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.08-13.24.03:690][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.08-13.24.03:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.08-13.24.05:598][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: Loaded boot cache 0.81s 73MB C:/Users/ivan_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ivan_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-13.24.06:412][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.08-13.24.06:438][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.08-13.24.06:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-13.24.06:439][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.08-13.24.06:442][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ivan_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.08-13.24.06:442][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.08-13.24.06:443][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.08-13.24.06:487][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.08-13.24.06:491][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.08-13.24.06:567][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.08-13.24.07:650][  0]LogAssetRegistry: FAssetRegistry took 0.0063 seconds to start up
+[2019.12.08-13.24.08:363][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-13.24.09:525][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.08-13.24.09:525][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.08-13.24.09:525][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.08-13.24.09:525][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.08-13.24.09:525][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.08-13.24.09:624][  0]LogNetVersion: Mazerator 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3843946635)
+[2019.12.08-13.24.11:780][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.103207 seconds
+[2019.12.08-13.24.11:793][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.08-13.24.11:793][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.08-13.24.11:793][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.08-13.24.29:828][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.08-13.24.29:850][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.08-13.24.30:674][  0]SourceControl: Source control is disabled
+[2019.12.08-13.24.30:674][  0]SourceControl: Source control is disabled
+[2019.12.08-13.24.30:728][  0]SourceControl: Source control is disabled
+[2019.12.08-13.24.30:747][  0]SourceControl: Source control is disabled
+[2019.12.08-13.24.31:881][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.08-13.24.32:842][  0]LogOcInput: OculusInput pre-init called
+[2019.12.08-13.24.32:889][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.08-13.24.32:889][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.08-13.24.33:336][  0]LogEngine: Initializing Engine...
+[2019.12.08-13.24.33:339][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-13.24.33:342][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.12.08-13.24.34:167][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.08-13.24.34:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.08-13.24.34:356][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-13.24.35:164][  0]LogInit: FAudioDevice initialized.
+[2019.12.08-13.24.35:164][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.08-13.24.35:391][  0]LogDerivedDataCache: Saved boot cache 0.23s 73MB C:/Users/ivan_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-13.24.35:392][  0]LogInit: Texture streaming: Enabled
+[2019.12.08-13.24.35:700][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.08-13.24.35:701][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={5422C135-4FA8-EBFA-D076-76A967BDD651}
+[2019.12.08-13.24.35:701][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.08-13.24.35:729][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.08-13.24.35:989][  0]LogInit: Transaction tracking system initialized
+[2019.12.08-13.24.36:334][  0]BlueprintLog: New page: Editor Load
+[2019.12.08-13.24.37:107][  0]LocalizationService: Localization service is disabled
+[2019.12.08-13.24.40:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Content/' took 0.02s
+[2019.12.08-13.24.40:014][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.08-13.24.40:015][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.08-13.24.42:767][  0]SourceControl: Source control is disabled
+[2019.12.08-13.24.42:768][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/GameContent/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-13.24.42:769][  0]LightingResults: New page: Lighting Build
+[2019.12.08-13.24.42:897][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.24.42:898][  0]MapCheck: New page: Map Check
+[2019.12.08-13.24.42:898][  0]LightingResults: New page: Lighting Build
+[2019.12.08-13.24.42:958][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.08-13.24.42:998][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.08-13.24.43:003][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-13.24.43:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.08-13.24.43:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-13.24.43:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.482ms to complete.
+[2019.12.08-13.24.43:058][  0]LogFileHelpers: Loading map 'MainMenu' took 0.289
+[2019.12.08-13.24.43:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.24.43:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.24.43:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.24.43:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.24.43:816][  0]LogCollectionManager: Loaded 0 collections in 0.004530 seconds
+[2019.12.08-13.24.43:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Collections/' took 0.00s
+[2019.12.08-13.24.43:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Content/Developers/ivan/Collections/' took 0.00s
+[2019.12.08-13.24.43:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivan_/Documents/Unreal Projects/Mazerator/Content/Collections/' took 0.00s
+[2019.12.08-13.24.43:878][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.08-13.24.43:895][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2863 classes and 680 folders.
+[2019.12.08-13.24.43:937][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.08-13.24.45:690][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.12.08-13.24.45:789][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.12.08-13.24.46:011][  0]LogSlate: Took 0.033177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.08-13.24.46:040][  0]LogSlate: Took 0.025878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.08-13.24.46:060][  0]LogSlate: Took 0.012315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.08-13.24.46:329][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-13.24.46:781][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.08-13.24.46:781][  0]LogLoad: (Engine Initialization) Total time: 74.37 seconds
+[2019.12.08-13.24.46:781][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.08-13.24.46:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.08-13.24.46:941][  0]LogSlate: Took 0.007429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-13.24.48:329][ 19]LogAssetRegistry: Asset discovery search completed in 40.6802 seconds
+[2019.12.08-13.24.48:338][ 19]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2019.12.08-13.24.48:338][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2019.12.08-13.24.56:280][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.24.58:335][309]LogSlate: Took 0.000570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-13.24.58:543][309]LogAIModule: Creating AISystem for world Level1
+[2019.12.08-13.24.58:569][309]LogAssetEditorManager: Opening Asset editor for World /Game/GameContent/Maps/Level1.Level1
+[2019.12.08-13.24.58:644][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.12.08-13.24.58:646][309]Cmd: MAP LOAD FILE="../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/GameContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-13.24.58:647][309]LightingResults: New page: Lighting Build
+[2019.12.08-13.24.58:649][309]LoadErrors: New page: Loading map: Level1.umap
+[2019.12.08-13.24.58:650][309]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.24.58:650][309]MapCheck: New page: Map Check
+[2019.12.08-13.24.58:650][309]LightingResults: New page: Lighting Build
+[2019.12.08-13.24.58:734][309]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2019.12.08-13.24.58:928][309]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-13.24.59:020][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.08-13.24.59:060][309]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-13.24.59:061][309]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.513ms to complete.
+[2019.12.08-13.24.59:061][309]LogFileHelpers: Loading map 'Level1' took 0.416
+[2019.12.08-13.25.16:075][757]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-13.25.17:517][803]LogEditorViewport: Clicking Background
+[2019.12.08-13.25.46:840][588]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={5422C135-4FA8-EBFA-D076-76A967BDD651}
+[2019.12.08-13.25.47:033][595]LogHttp: Warning: 000001D4FD710180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-13.25.47:033][595]LogHttp: Warning: 000001D4FD710180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-13.25.47:033][595]LogHttp: Warning: 000001D4FD710180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-13.25.47:033][595]LogHttp: Warning: 000001D4FD710180: libcurl info message cache 1 (Closing connection 0)
+[2019.12.08-13.25.47:068][596]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-13.26.59:523][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.26.59:709][536]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.12.08-13.26.59:863][536]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 38
+[2019.12.08-13.26.59:864][536]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.12.08-13.26.59:995][536]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.12.08-13.27.00:124][536]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2019.12.08-13.27.00:322][536]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.12.08-13.27.00:498][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.08-13.27.00:572][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.08-13.27.00:653][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.08-13.27.00:737][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.08-13.27.00:826][536]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.12.08-13.27.00:909][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.12.08-13.27.00:993][536]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.12.08-13.27.01:052][536]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.12.08-13.27.36:258][929]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.08-13.27.36:270][929]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.12.08-13.27.47:140][106]LogHttp: Warning: 000001D4BE9C0400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-13.27.47:140][106]LogHttp: Warning: 000001D4BE9C0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-13.27.47:140][106]LogHttp: Warning: 000001D4BE9C0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-13.27.47:140][106]LogHttp: Warning: 000001D4BE9C0400: libcurl info message cache 1 (Closing connection 1)
+[2019.12.08-13.27.47:141][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-13.28.50:710][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.29.22:479][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.29.47:291][979]LogHttp: Warning: 000001D4BE238B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-13.29.47:291][979]LogHttp: Warning: 000001D4BE238B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-13.29.47:291][979]LogHttp: Warning: 000001D4BE238B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-13.29.47:291][979]LogHttp: Warning: 000001D4BE238B80: libcurl info message cache 1 (Closing connection 2)
+[2019.12.08-13.29.47:348][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-13.30.05:360][214]Cmd: DELETE
+[2019.12.08-13.30.05:360][214]Cmd: ACTOR DELETE
+[2019.12.08-13.30.05:676][214]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.12.08-13.30.05:807][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.08-13.30.05:808][214]LogEditorActor: Deleted 1 Actors (0.182 secs)
+[2019.12.08-13.30.08:676][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.31.13:532][196]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.08-13.31.13:769][196]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.08-13.31.13:949][196]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2019.12.08-13.31.15:955][196]LogSlate: Window 'Save Content' being destroyed
+[2019.12.08-13.31.16:264][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.08-13.31.17:982][196]LogSavePackage: Moving '../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Level108EB7CE541847BB0F20CC88B1F31909B.tmp' to '../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/GameContent/Maps/Level1.umap'
+[2019.12.08-13.31.18:023][196]LogFileHelpers: Saving map 'Level1' took 1.919
+[2019.12.08-13.31.18:025][196]Cmd: MAP LOAD FILE="../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-13.31.18:025][196]LightingResults: New page: Lighting Build
+[2019.12.08-13.31.18:026][196]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.12.08-13.31.18:044][196]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.31.18:058][196]MapCheck: New page: Map Check
+[2019.12.08-13.31.18:058][196]LightingResults: New page: Lighting Build
+[2019.12.08-13.31.19:094][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.12.08-13.31.19:700][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-13.31.19:795][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.08-13.31.19:822][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-13.31.19:822][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.275ms to complete.
+[2019.12.08-13.31.19:822][196]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.799
+[2019.12.08-13.31.20:026][196]LogAIModule: Creating AISystem for world Level1
+[2019.12.08-13.31.42:740][531]LogAssetEditorManager: Opening Asset editor for World /Game/GameContent/Maps/Level1.Level1
+[2019.12.08-13.31.42:811][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.08-13.31.42:812][531]Cmd: MAP LOAD FILE="../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/GameContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-13.31.42:812][531]LightingResults: New page: Lighting Build
+[2019.12.08-13.31.42:814][531]LoadErrors: New page: Loading map: Level1.umap
+[2019.12.08-13.31.42:817][531]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.31.42:835][531]MapCheck: New page: Map Check
+[2019.12.08-13.31.42:835][531]LightingResults: New page: Lighting Build
+[2019.12.08-13.31.43:004][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.08-13.31.43:479][531]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-13.31.43:572][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.08-13.31.43:626][531]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-13.31.43:626][531]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.278ms to complete.
+[2019.12.08-13.31.43:640][531]LogFileHelpers: Loading map 'Level1' took 0.829
+[2019.12.08-13.31.47:875][589]LogHttp: Warning: 000001D4BEF8BC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-13.31.47:875][589]LogHttp: Warning: 000001D4BEF8BC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-13.31.47:875][589]LogHttp: Warning: 000001D4BEF8BC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-13.31.47:875][589]LogHttp: Warning: 000001D4BEF8BC40: libcurl info message cache 1 (Closing connection 3)
+[2019.12.08-13.31.47:963][590]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-13.31.58:260][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.32.37:885][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.33.09:923][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.33.10:102][728]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.12.08-13.33.36:749][ 63]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.12.08-13.33.40:481][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.33.48:232][222]LogHttp: Warning: 000001D4BF8A9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-13.33.48:232][222]LogHttp: Warning: 000001D4BF8A9D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-13.33.48:232][222]LogHttp: Warning: 000001D4BF8A9D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-13.33.48:232][222]LogHttp: Warning: 000001D4BF8A9D00: libcurl info message cache 1 (Closing connection 4)
+[2019.12.08-13.33.48:232][222]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10024CD9-4D7F-6E43-33E0-9A8AB0158E76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=17f5d542448e3625c2ff1198ce4bbe1a%7C0cf2ca120669405988df6df44fb94c9a%7Cc4675e6a-9d97-498e-a143-50bca3e761fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-13.33.49:936][243]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.12.08-13.33.49:978][243]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2019.12.08-13.33.49:988][243]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.12.08-13.33.49:997][243]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2019.12.08-13.33.50:001][243]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.12.08-13.33.50:004][243]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2019.12.08-13.33.50:007][243]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.12.08-13.33.50:031][243]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2019.12.08-13.33.50:039][243]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.12.08-13.33.50:065][243]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2019.12.08-13.33.50:067][243]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.12.08-13.33.50:078][243]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2019.12.08-13.33.50:081][243]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.12.08-13.33.50:099][243]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2019.12.08-13.33.50:101][243]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.12.08-13.33.50:107][243]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2019.12.08-13.33.50:109][243]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2019.12.08-13.33.50:118][243]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2019.12.08-13.33.50:119][243]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2019.12.08-13.33.50:141][243]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2019.12.08-13.33.50:143][243]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2019.12.08-13.33.50:155][243]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2019.12.08-13.33.50:157][243]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2019.12.08-13.33.50:161][243]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2019.12.08-13.33.50:162][243]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2019.12.08-13.33.50:168][243]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2019.12.08-13.33.50:169][243]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2019.12.08-13.33.50:178][243]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2019.12.08-13.33.50:181][243]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2019.12.08-13.33.50:184][243]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2019.12.08-13.33.50:186][243]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2019.12.08-13.33.50:203][243]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2019.12.08-13.33.50:205][243]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2019.12.08-13.33.50:209][243]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2019.12.08-13.33.50:211][243]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2019.12.08-13.33.50:222][243]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2019.12.08-13.33.50:224][243]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.12.08-13.33.50:228][243]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2019.12.08-13.33.50:230][243]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2019.12.08-13.33.50:234][243]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2019.12.08-13.33.50:236][243]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2019.12.08-13.33.50:240][243]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2019.12.08-13.33.50:242][243]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2019.12.08-13.33.50:245][243]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2019.12.08-13.33.50:247][243]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.12.08-13.33.50:251][243]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2019.12.08-13.33.50:252][243]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2019.12.08-13.33.50:255][243]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2019.12.08-13.33.50:276][243]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2019.12.08-13.33.50:283][243]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2019.12.08-13.33.50:284][243]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2019.12.08-13.33.50:289][243]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2019.12.08-13.33.50:290][243]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2019.12.08-13.33.50:293][243]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2019.12.08-13.33.50:294][243]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2019.12.08-13.33.50:301][243]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2019.12.08-13.33.50:302][243]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2019.12.08-13.33.50:306][243]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2019.12.08-13.33.50:309][243]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2019.12.08-13.33.50:313][243]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2019.12.08-13.33.50:314][243]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2019.12.08-13.33.50:321][243]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2019.12.08-13.33.50:323][243]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2019.12.08-13.33.50:326][243]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2019.12.08-13.33.50:328][243]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2019.12.08-13.33.50:364][243]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2019.12.08-13.33.50:366][243]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.12.08-13.33.50:370][243]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2019.12.08-13.33.50:372][243]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.12.08-13.33.50:374][243]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2019.12.08-13.33.50:377][243]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2019.12.08-13.33.50:381][243]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2019.12.08-13.33.50:383][243]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2019.12.08-13.33.50:386][243]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2019.12.08-13.33.50:389][243]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2019.12.08-13.33.50:394][243]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2019.12.08-13.33.50:396][243]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2019.12.08-13.33.50:400][243]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2019.12.08-13.33.50:402][243]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2019.12.08-13.33.50:405][243]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2019.12.08-13.33.50:407][243]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2019.12.08-13.33.50:687][243]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2019.12.08-13.33.50:690][243]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2019.12.08-13.33.50:695][243]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2019.12.08-13.33.50:697][243]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2019.12.08-13.33.50:701][243]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2019.12.08-13.33.50:703][243]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2019.12.08-13.33.50:706][243]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2019.12.08-13.33.50:715][243]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2019.12.08-13.33.50:721][243]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2019.12.08-13.33.50:722][243]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2019.12.08-13.33.50:726][243]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2019.12.08-13.33.50:730][243]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2019.12.08-13.33.50:733][243]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2019.12.08-13.33.50:735][243]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2019.12.08-13.33.50:742][243]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2019.12.08-13.33.50:744][243]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 32X32)
+[2019.12.08-13.33.50:749][243]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 32X32)
+[2019.12.08-13.33.50:766][243]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2019.12.08-13.33.50:770][243]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2019.12.08-13.33.50:772][243]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2019.12.08-13.33.50:779][243]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2019.12.08-13.33.50:781][243]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 32X32)
+[2019.12.08-13.33.50:785][243]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 32X32)
+[2019.12.08-13.33.50:792][243]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2019.12.08-13.33.50:795][243]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2019.12.08-13.33.50:797][243]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2019.12.08-13.33.50:800][243]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2019.12.08-13.33.50:802][243]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 32X32)
+[2019.12.08-13.33.50:805][243]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 32X32)
+[2019.12.08-13.33.50:807][243]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2019.12.08-13.33.50:811][243]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2019.12.08-13.33.50:813][243]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 32X32)
+[2019.12.08-13.33.50:817][243]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 32X32)
+[2019.12.08-13.33.50:832][243]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 32X32)
+[2019.12.08-13.33.50:837][243]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 32X32)
+[2019.12.08-13.33.50:841][243]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 32X32)
+[2019.12.08-13.33.50:845][243]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 32X32)
+[2019.12.08-13.33.50:847][243]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 32X32)
+[2019.12.08-13.33.50:851][243]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 32X32)
+[2019.12.08-13.33.50:853][243]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 32X32)
+[2019.12.08-13.33.50:859][243]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 32X32)
+[2019.12.08-13.33.50:861][243]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 32X32)
+[2019.12.08-13.33.50:863][243]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 32X32)
+[2019.12.08-13.33.50:865][243]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 32X32)
+[2019.12.08-13.33.50:868][243]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 32X32)
+[2019.12.08-13.33.50:870][243]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 32X32)
+[2019.12.08-13.33.50:872][243]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 32X32)
+[2019.12.08-13.33.50:874][243]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 32X32)
+[2019.12.08-13.33.50:877][243]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 32X32)
+[2019.12.08-13.33.50:905][243]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.12.08-13.33.50:908][243]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2019.12.08-13.33.50:910][243]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.12.08-13.33.50:912][243]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2019.12.08-13.33.50:914][243]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.12.08-13.33.50:916][243]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2019.12.08-13.33.50:918][243]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.12.08-13.33.50:921][243]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2019.12.08-13.33.50:923][243]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2019.12.08-13.33.50:926][243]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2019.12.08-13.33.50:929][243]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2019.12.08-13.33.50:933][243]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2019.12.08-13.33.50:935][243]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 32X32)
+[2019.12.08-13.33.50:940][243]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 32X32)
+[2019.12.08-13.33.50:942][243]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 32X32)
+[2019.12.08-13.33.50:945][243]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 32X32)
+[2019.12.08-13.33.50:959][243]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.12.08-13.33.50:965][243]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2019.12.08-13.33.51:011][243]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.12.08-13.33.51:015][243]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2019.12.08-13.33.51:016][243]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.12.08-13.33.51:020][243]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2019.12.08-13.33.51:021][243]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.12.08-13.33.51:045][243]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2019.12.08-13.33.51:046][243]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2019.12.08-13.33.51:509][243]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2019.12.08-13.33.51:511][243]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2019.12.08-13.33.51:514][243]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2019.12.08-13.33.51:517][243]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 32X32)
+[2019.12.08-13.33.51:521][243]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 32X32)
+[2019.12.08-13.33.51:523][243]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 32X32)
+[2019.12.08-13.33.51:531][243]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 32X32)
+[2019.12.08-13.33.51:533][243]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.12.08-13.33.51:537][243]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2019.12.08-13.33.51:539][243]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.12.08-13.33.51:544][243]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2019.12.08-13.33.51:548][243]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.12.08-13.33.51:553][243]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2019.12.08-13.33.51:556][243]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.12.08-13.33.51:560][243]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2019.12.08-13.33.51:563][243]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.12.08-13.33.51:580][243]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2019.12.08-13.33.51:582][243]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.12.08-13.33.51:601][243]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2019.12.08-13.33.51:602][243]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 32X32)
+[2019.12.08-13.33.51:606][243]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 32X32)
+[2019.12.08-13.33.51:609][243]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 32X32)
+[2019.12.08-13.33.51:612][243]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 32X32)
+[2019.12.08-13.33.51:614][243]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.12.08-13.33.51:619][243]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2019.12.08-13.33.51:620][243]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.12.08-13.33.51:623][243]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2019.12.08-13.33.51:626][243]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.12.08-13.33.51:632][243]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2019.12.08-13.33.51:634][243]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.12.08-13.33.51:638][243]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2019.12.08-13.33.51:640][243]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.12.08-13.33.51:659][243]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2019.12.08-13.33.51:661][243]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.12.08-13.33.51:664][243]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2019.12.08-13.33.51:666][243]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 32X32)
+[2019.12.08-13.33.51:670][243]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 32X32)
+[2019.12.08-13.33.51:672][243]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 32X32)
+[2019.12.08-13.33.51:676][243]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 32X32)
+[2019.12.08-13.33.51:679][243]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.12.08-13.33.51:682][243]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2019.12.08-13.33.51:683][243]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.12.08-13.33.51:695][243]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2019.12.08-13.33.51:697][243]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.12.08-13.33.51:701][243]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2019.12.08-13.33.51:703][243]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.12.08-13.33.51:722][243]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2019.12.08-13.33.51:724][243]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.12.08-13.33.51:729][243]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2019.12.08-13.33.52:371][243]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.12.08-13.33.52:374][243]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2019.12.08-13.33.52:376][243]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 32X32)
+[2019.12.08-13.33.52:381][243]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 32X32)
+[2019.12.08-13.33.52:385][243]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 32X32)
+[2019.12.08-13.33.52:387][243]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 32X32)
+[2019.12.08-13.33.52:389][243]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.12.08-13.33.52:391][243]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2019.12.08-13.33.52:393][243]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.12.08-13.33.52:395][243]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2019.12.08-13.33.52:398][243]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.12.08-13.33.52:402][243]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2019.12.08-13.33.52:404][243]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.12.08-13.33.52:409][243]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2019.12.08-13.33.52:426][243]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.12.08-13.33.53:274][243]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2019.12.08-13.33.53:283][243]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.12.08-13.33.53:455][243]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2019.12.08-13.33.53:456][243]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 32X32)
+[2019.12.08-13.33.53:467][243]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 32X32)
+[2019.12.08-13.33.53:469][243]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 32X32)
+[2019.12.08-13.33.53:473][243]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 32X32)
+[2019.12.08-13.33.53:474][243]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.12.08-13.33.53:478][243]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2019.12.08-13.33.53:480][243]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.12.08-13.33.53:490][243]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2019.12.08-13.33.53:491][243]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.12.08-13.33.53:495][243]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2019.12.08-13.33.53:497][243]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.12.08-13.33.53:500][243]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2019.12.08-13.33.53:501][243]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2019.12.08-13.33.53:504][243]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2019.12.08-13.33.53:506][243]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2019.12.08-13.33.53:510][243]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2019.12.08-13.33.53:512][243]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 32X32)
+[2019.12.08-13.33.53:515][243]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 32X32)
+[2019.12.08-13.33.53:553][243]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 32X32)
+[2019.12.08-13.33.53:556][243]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 32X32)
+[2019.12.08-13.33.55:641][264]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2019.12.08-13.33.55:646][264]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2019.12.08-13.33.56:208][272]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 32X32)
+[2019.12.08-13.33.56:212][272]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 32X32)
+[2019.12.08-13.33.56:497][276]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 32X32)
+[2019.12.08-13.33.56:510][276]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 32X32)
+[2019.12.08-13.33.57:278][286]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2019.12.08-13.33.57:293][286]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2019.12.08-13.33.57:803][293]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2019.12.08-13.33.57:815][293]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2019.12.08-13.33.58:166][297]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2019.12.08-13.33.58:185][297]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2019.12.08-13.33.58:853][305]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 32X32)
+[2019.12.08-13.33.58:865][305]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 32X32)
+[2019.12.08-13.34.01:465][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.34.02:381][356]Cmd: DELETE
+[2019.12.08-13.34.02:381][356]Cmd: ACTOR DELETE
+[2019.12.08-13.34.02:452][356]LogEditorActor: Deleted Actor: Landscape
+[2019.12.08-13.34.06:157][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.12.08-13.34.06:159][356]LogEditorActor: Deleted 1 Actors (3.778 secs)
+[2019.12.08-13.34.08:302][388]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2019.12.08-13.34.19:053][526]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.08-13.34.26:915][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.35.10:591][560]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.08-13.35.17:159][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.35.45:789][104]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-13.35.50:925][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.35.50:954][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-13.35.51:050][104]PIE: New page: PIE session: Level1 (8 Dec 2019 13:35:50)
+[2019.12.08-13.35.51:171][104]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.08-13.35.51:182][104]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_Level1
+[2019.12.08-13.35.51:343][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161096s)
+[2019.12.08-13.35.51:360][104]LogAIModule: Creating AISystem for world Level1
+[2019.12.08-13.35.51:384][104]LogPlayLevel: PIE: World Init took: (0.041260s)
+[2019.12.08-13.35.51:400][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/Level1.Level1 to /Game/GameContent/Maps/UEDPIE_0_Level1.Level1 (0.218776s)
+[2019.12.08-13.35.51:471][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.08-13.35.51:535][104]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-13.35.51:618][104]LogInit: FAudioDevice initialized.
+[2019.12.08-13.35.51:705][104]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-13.35.51:874][104]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.12.08-13.35.51
+[2019.12.08-13.35.51:886][104]LogWorld: Bringing up level for play took: 0.019548
+[2019.12.08-13.35.51:887][104]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.08-13.35.52:173][104]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 20 classes and 0 folders.
+[2019.12.08-13.35.52:268][104]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_Level1 0.486
+[2019.12.08-13.35.52:268][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.06:322][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.06:323][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.36.06:323][198]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_Level1
+[2019.12.08-13.36.06:334][198]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.36.06:513][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-13.36.06:513][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.06:683][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.36.06:755][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.08-13.36.06:797][199]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.08-13.36.09:078][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.36.18:629][344]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-13.36.24:067][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.24:067][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-13.36.24:067][344]PIE: New page: PIE session: Level1 (8 Dec 2019 13:36:24)
+[2019.12.08-13.36.24:067][344]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_Level1
+[2019.12.08-13.36.24:203][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135804s)
+[2019.12.08-13.36.24:205][344]LogAIModule: Creating AISystem for world Level1
+[2019.12.08-13.36.24:206][344]LogPlayLevel: PIE: World Init took: (0.002634s)
+[2019.12.08-13.36.24:206][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/Level1.Level1 to /Game/GameContent/Maps/UEDPIE_0_Level1.Level1 (0.138752s)
+[2019.12.08-13.36.24:295][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.08-13.36.24:321][344]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-13.36.24:414][344]LogInit: FAudioDevice initialized.
+[2019.12.08-13.36.24:427][344]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-13.36.24:435][344]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.12.08-13.36.24
+[2019.12.08-13.36.24:436][344]LogWorld: Bringing up level for play took: 0.007409
+[2019.12.08-13.36.24:436][344]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.08-13.36.24:446][344]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_Level1 0.664
+[2019.12.08-13.36.24:447][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.42:387][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.42:389][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.36.42:389][496]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_Level1
+[2019.12.08-13.36.42:390][496]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.36.42:562][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-13.36.42:562][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/GameContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/GameContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.12.08-13.36.42:673][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.36.42:693][496]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.12.08-13.36.42:736][497]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.08-13.36.45:993][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.37.00:317][605]LogSlate: Window 'Save Asset As' being destroyed
+[2019.12.08-13.37.17:706][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.37.31:944][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.37.36:621][981]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.08-13.37.36:682][981]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.08-13.37.36:789][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.08-13.37.38:157][981]LogSlate: Window 'Save Content' being destroyed
+[2019.12.08-13.37.38:393][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.08-13.37.39:619][981]LogSavePackage: Moving '../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Saved/Level15B18CD85482E4ABC75F7AF86E46634CC.tmp' to '../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/GameContent/Maps/Level1.umap'
+[2019.12.08-13.37.39:668][981]LogFileHelpers: Saving map 'Level1' took 1.477
+[2019.12.08-13.37.39:698][981]Cmd: MAP LOAD FILE="../../../../../../Users/ivan_/Documents/Unreal Projects/Mazerator/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-13.37.39:698][981]LightingResults: New page: Lighting Build
+[2019.12.08-13.37.39:699][981]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.12.08-13.37.39:703][981]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.37.39:704][981]MapCheck: New page: Map Check
+[2019.12.08-13.37.39:705][981]LightingResults: New page: Lighting Build
+[2019.12.08-13.37.41:278][981]LogUObjectHash: Compacting FUObjectHashTables data took 244.78ms
+[2019.12.08-13.37.42:199][981]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-13.37.42:317][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.08-13.37.42:377][981]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-13.37.42:378][981]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.922ms to complete.
+[2019.12.08-13.37.42:379][981]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.710
+[2019.12.08-13.37.42:645][981]LogAIModule: Creating AISystem for world Level1
+[2019.12.08-13.38.01:106][229]Cmd: TRANSACTION UNDO
+[2019.12.08-13.38.01:106][229]LogEditorTransaction: Undo Create Actors
+[2019.12.08-13.38.10:649][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.38.10:776][368]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2019.12.08-13.38.31:848][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.38.32:193][601]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 8X8)
+[2019.12.08-13.38.38:145][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.08-13.38.47:575][824]Cmd: TRANSACTION UNDO
+[2019.12.08-13.38.47:575][824]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.08-13.38.52:366][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.38.53:243][913]Cmd: DELETE
+[2019.12.08-13.38.53:244][913]Cmd: ACTOR DELETE
+[2019.12.08-13.38.53:350][913]LogEditorActor: Deleted Actor: Landscape
+[2019.12.08-13.38.53:530][913]LogUObjectHash: Compacting FUObjectHashTables data took  21.13ms
+[2019.12.08-13.38.53:531][913]LogEditorActor: Deleted 1 Actors (0.216 secs)
+[2019.12.08-13.39.06:768][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.39.06:901][133]LogTexture: Display: Building textures: Texture2D_6 (G8, 128X128)
+[2019.12.08-13.39.24:636][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.39.25:746][364]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 8X8)
+[2019.12.08-13.39.34:307][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.39.48:565][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.40.02:303][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.40.16:731][ 83]Cmd: TRANSACTION UNDO
+[2019.12.08-13.40.16:731][ 83]LogEditorTransaction: Undo Edit Override Material
+[2019.12.08-13.40.19:947][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.40.26:582][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.41.00:788][574]LogSlate: Window 'Save Asset As' being destroyed
+[2019.12.08-13.41.04:882][574]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2019.12.08-13.41.09:585][625]LogAssetEditorManager: Opening Asset editor for PhysicalMaterial /Game/test.test
+[2019.12.08-13.41.13:357][670]LogSlate: Window 'test' being destroyed
+[2019.12.08-13.42.02:630][146]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 476
+[2019.12.08-13.42.08:125][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.08-13.42.12:482][218]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.08-13.42.13:637][218]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/test.test
+[2019.12.08-13.42.23:456][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.08-13.43.15:708][767]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2019.12.08-13.43.24:661][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.43.24:811][842]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-13.43.24:970][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.08-13.43.24:970][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-13.43.24:970][842]PIE: New page: PIE session: FirstPersonExampleMap (8 Dec 2019 13:43:24)
+[2019.12.08-13.43.24:970][842]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.08-13.43.25:140][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.169201s)
+[2019.12.08-13.43.25:144][842]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.08-13.43.25:145][842]LogPlayLevel: PIE: World Init took: (0.004520s)
+[2019.12.08-13.43.25:145][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.175127s)
+[2019.12.08-13.43.25:220][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.08-13.43.25:368][842]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-13.43.25:722][842]LogInit: FAudioDevice initialized.
+[2019.12.08-13.43.25:740][842]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-13.43.25:745][842]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.08-13.43.25
+[2019.12.08-13.43.25:745][842]LogWorld: Bringing up level for play took: 0.004599
+[2019.12.08-13.43.25:746][842]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.08-13.43.25:882][842]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.1
+[2019.12.08-13.43.25:883][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.08-13.43.30:118][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.08-13.43.30:120][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.43.30:120][895]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.08-13.43.30:120][895]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-13.43.30:276][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-13.43.30:276][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.08-13.43.30:387][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-13.43.30:396][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.08-13.43.30:435][896]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.08-13.43.36:606][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.08-13.43.36:606][992]Can't find target actor or component.
+[2019.12.08-13.43.43:165][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.43.48:828][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.43.53:338][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.43.59:829][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.44.09:198][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.44.14:403][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.44.16:557][618]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.08-13.44.18:546][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.45.25:784][607]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.08-13.45.25:893][607]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] You have a Landscape
+[2019.12.08-13.46.16:040][294]Cmd: TRANSACTION UNDO
+[2019.12.08-13.46.16:040][294]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.12.08-13.46.19:418][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.46.23:894][405]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.08-13.46.23:905][405]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2019.12.08-13.46.40:456][639]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2019.12.08-13.46.40:888][639]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-13.49.29:182][716]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.49.29:182][716]LogD3D11RHI: GetQueryData is taking a very long time (10.0 s)
+[2019.12.08-13.49.38:462][721]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.49.52:818][845]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.50.50:012][577]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.50.50:144][577]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.50.50:182][577]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.50.50:226][577]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.51.07:848][673]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.51.17:247][683]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.51.23:491][756]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.08-13.51.39:282][894]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.08-13.51.39:439][894]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 8X8)
+[2019.12.08-13.51.39:476][894]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.51.45:381][938]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.08-13.51.50:177][981]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.08-13.52.35:079][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.52.40:555][691]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.08-13.52.40:618][691]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.08-13.52.55:702][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.53.06:927][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.53.20:876][241]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.12.08-13.53.26:584][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.53.53:212][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.54.04:607][661]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s)
+[2019.12.08-13.54.04:850][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.54.08:171][700]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2019.12.08-13.54.10:422][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.54.23:575][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-13.54.33:547][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.55.00:504][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-13.55.01:548][385]MapCheck: New page: Map Check
+[2019.12.08-13.55.01:866][385]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-13.55.01:982][385]LightingResults: New page: Lighting Build - 8 Dec 2019 13:55:01
+[2019.12.08-13.55.05:085][385]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.08-13.55.07:821][385]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.08-13.55.08:784][385]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.08-13.55.14:491][385]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.12.08-13.55.14:706][385]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.12.08-13.55.20:718][385]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.08-13.55.20:718][385]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8208
+[2019.12.08-13.55.35:669][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.08-13.55.35:669][385]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.08-13.55.35:669][385]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.08-13.55.35:669][385]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.08-13.55.35:669][385]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.08-13.55.37:824][385]LogEditorBuildUtils: Build time 0:35
+[2019.12.08-13.55.37:871][385]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.08-13.55.37:915][385]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.08-13.55.38:045][386]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.12.08-13.55.38:102][386]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.12.08-13.55.38:255][387]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling. 
+[2019.12.08-13.55.38:291][387]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling. 
+[2019.12.08-13.55.38:519][388]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.12.08-13.55.38:552][388]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
