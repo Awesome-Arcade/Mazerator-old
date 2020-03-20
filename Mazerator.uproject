@@ -2,5 +2,13 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.23",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"HoloLens",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
 }
