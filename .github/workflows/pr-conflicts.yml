@@ -1,0 +1,11 @@
+name: check potential conflicts
+on: pull_request
+
+jobs:
+  build:
+    name: potential-conflicts-checker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: outsideris/potential-conflicts-checker-action@0.1.0
+        with:
+          ghToken: ${{b3125cfe8bd3542158d5257f9cf5b9391ffa5728}}

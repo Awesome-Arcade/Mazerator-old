@@ -1,0 +1,2 @@
+- name: Potential Conflicts Checker
+  uses: outsideris/potential-conflicts-checker-action@0.1.0
