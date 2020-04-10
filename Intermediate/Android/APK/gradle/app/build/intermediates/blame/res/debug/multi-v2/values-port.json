@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kalin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f0113736efe07d7ce3836b7de1c05d6a\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
