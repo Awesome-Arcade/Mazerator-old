@@ -1,6 +1,37 @@
 {
 	"Contents": [
 		{
+			"File": "../../../Engine/Plugins/Marketplace/ParticleText/ParticleText.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 3,
+				"VersionName": "1.0.2",
+				"FriendlyName": "Particle Text",
+				"Description": "",
+				"Category": "Particle",
+				"CreatedBy": "Killer Refresh Entertainment, LLC",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0c2d7c278eb645d5b8c3be41e2bc859e",
+				"SupportURL": "https://forums.unrealengine.com/showthread.php?147703-Particle-Text-Plugin",
+				"EngineVersion": "4.23.0",
+				"CanContainContent": false,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "ParticleText",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Win32"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{

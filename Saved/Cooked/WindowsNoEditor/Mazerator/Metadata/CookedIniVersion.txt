@@ -1136,7 +1136,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForES
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkan:0=false
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bDetectVulkanByDefault:0=true
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSplitIntoSeparateApks:0=false
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageDataInsideApk:0=True
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageDataInsideApk:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseExternalFilesDir:0=false
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bCreateAllPlatformsInstall:0=false
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation:0=Landscape
@@ -1901,7 +1901,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path=
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False

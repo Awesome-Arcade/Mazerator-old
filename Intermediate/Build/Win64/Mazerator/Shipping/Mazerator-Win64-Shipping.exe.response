@@ -94,6 +94,8 @@
 "C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Engine\SharedPCH.Engine.h.obj"
 "C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Launch\Module.Launch.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4\Shipping\Launch\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Marketplace\ParticleText\Intermediate\Build\Win64\UE4\Shipping\ParticleText\Module.ParticleText.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\Marketplace\ParticleText\Intermediate\Build\Win64\UE4\Shipping\ParticleText\Module.ParticleText.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.23\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UE4\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -684,6 +686,7 @@
 /OUT:"C:\Users\Kalin\Documents\GitHub\Mazerator\Binaries\Win64\Mazerator-Win64-Shipping.exe"
 /PDB:"C:\Users\Kalin\Documents\GitHub\Mazerator\Binaries\Win64\Mazerator-Win64-Shipping.pdb"
 /ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_ParticleText
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_LightPropagationVolumeRuntime
