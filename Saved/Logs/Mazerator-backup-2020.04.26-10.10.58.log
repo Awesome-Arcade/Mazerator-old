@@ -1,0 +1,625 @@
+﻿Log file open, 04/26/20 10:41:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Mazerator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.380471
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD A6-9225 RADEON R4, 5 COMPUTE CORES 2C+3G   , GPU: AMD Radeon(TM) R4 Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.26-09.41.54:100][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.26-09.41.54:101][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:101][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:107][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.26-09.41.54:107][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.26-09.41.54:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-09.41.54:109][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-09.41.54:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-09.41.54:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-09.41.54:110][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-09.41.54:110][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:110][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.26-09.41.54:110][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.26-09.41.54:110][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-09.41.54:110][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.26-09.41.54:120][  0]LogHAL: Display: Platform has ~ 4 GB [4175093760 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.26-09.41.54:120][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.26-09.41.54:120][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.04.26-09.41.54:120][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.04.26-09.41.54:120][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.04.26-09.41.54:120][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.04.26-09.41.54:121][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-09.41.54:122][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.04.26-09.41.54:123][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.26-09.41.54:124][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.26-09.41.54:124][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.26-09.41.54:124][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Config/Windows/Engine.ini]
+[2020.04.26-09.41.54:124][  0]LogInit: Computer: LAPTOP-70F41ERQ
+[2020.04.26-09.41.54:124][  0]LogInit: User: Kalin
+[2020.04.26-09.41.54:125][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.04.26-09.41.54:125][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.26-09.41.54:125][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.04.26-09.41.54:125][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.26-09.41.54:125][  0]LogMemory: Process Physical Memory: 100.45 MB used, 100.45 MB peak
+[2020.04.26-09.41.54:125][  0]LogMemory: Process Virtual Memory: 99.80 MB used, 99.80 MB peak
+[2020.04.26-09.41.54:125][  0]LogMemory: Physical Memory: 2952.98 MB used,  1028.70 MB free, 3981.68 MB total
+[2020.04.26-09.41.54:125][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.04.26-09.41.54:133][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.26-09.41.54:237][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.26-09.41.54:237][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.26-09.41.54:239][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.26-09.41.54:844][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.26-09.41.54:959][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.26-09.41.54:959][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.26-09.41.55:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-09.41.55:636][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.26-09.41.55:795][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R4 Graphics' (Feature Level 11_0)
+[2020.04.26-09.41.55:796][  0]LogD3D11RHI:       64/0/1990 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.26-09.41.55:804][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.26-09.41.55:804][  0]LogD3D11RHI:       0/0/1990 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.26-09.41.55:804][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.26-09.41.55:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.26-09.41.55:826][  0]LogD3D11RHI:     GPU DeviceId: 0x98e4 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.26-09.41.55:826][  0]LogWindows: EnumDisplayDevices:
+[2020.04.26-09.41.55:826][  0]LogWindows:    0. 'AMD Radeon(TM) R4 Graphics' (P:1 D:1)
+[2020.04.26-09.41.55:827][  0]LogWindows:    1. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2020.04.26-09.41.55:828][  0]LogWindows:    2. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2020.04.26-09.41.55:830][  0]LogWindows:    3. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2020.04.26-09.41.55:830][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.26-09.41.55:830][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R4 Graphics
+[2020.04.26-09.41.55:830][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.10.08.01 (internal:26.20.11008.1007, unified:26.20.11008.1007)
+[2020.04.26-09.41.55:830][  0]LogD3D11RHI:      Driver Date: 5-4-2019
+[2020.04.26-09.41.55:830][  0]LogRHI: Texture pool is 696 MB (70% of 995 MB)
+[2020.04.26-09.41.55:930][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.26-09.41.55:958][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2020.04.26-09.41.57:228][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.26-09.41.57:255][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.26-09.41.57:282][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.26-09.41.57:307][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.26-09.41.57:334][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.26-09.41.57:361][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.26-09.41.57:389][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.26-09.41.57:416][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.26-09.41.57:429][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.26-09.41.57:537][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.26-09.41.57:537][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.26-09.41.57:537][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.26-09.41.57:537][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.26-09.41.57:538][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.26-09.41.57:545][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.26-09.41.57:600][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.26-09.41.57:600][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.26-09.41.57:640][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.26-09.41.57:640][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.26-09.41.57:663][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.26-09.41.57:684][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.26-09.41.57:711][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.26-09.41.57:747][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.26-09.41.57:821][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.26-09.41.57:821][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.26-09.41.57:822][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.26-09.41.57:846][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.26-09.41.58:008][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Intermediate/Shaders/WorkingDirectory/3796/).
+[2020.04.26-09.41.58:008][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kalin/AppData/Local/Temp/UnrealShaderWorkingDir/F401A74A43FB5E200DF9C98E2F804F99/'.
+[2020.04.26-09.41.58:019][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.26-09.41.58:019][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.26-09.41.58:019][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.26-09.42.00:103][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.26-09.42.00:288][  0]LogDerivedDataCache: Loaded boot cache 0.18s 73MB C:/Users/Kalin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.26-09.42.00:288][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kalin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.26-09.42.00:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kalin/Documents/GitHub/Mazerator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.26-09.42.00:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.26-09.42.00:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kalin/Documents/GitHub/Mazerator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-09.42.00:289][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.26-09.42.00:309][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.26-09.42.00:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-09.42.00:310][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.26-09.42.00:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kalin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.26-09.42.00:313][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.26-09.42.00:313][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.26-09.42.00:370][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.26-09.42.00:374][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.26-09.42.00:376][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.26-09.42.00:662][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2020.04.26-09.42.01:397][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-09.42.01:703][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.26-09.42.01:703][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.26-09.42.01:703][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.26-09.42.01:703][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.26-09.42.01:704][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.26-09.42.01:726][  0]LogNetVersion: Mazerator 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3843946635)
+[2020.04.26-09.42.02:915][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.253226 seconds
+[2020.04.26-09.42.02:932][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.26-09.42.02:933][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.26-09.42.02:933][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.26-09.42.06:743][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.26-09.42.06:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.26-09.42.06:890][  0]SourceControl: Source control is disabled
+[2020.04.26-09.42.06:890][  0]SourceControl: Source control is disabled
+[2020.04.26-09.42.06:893][  0]SourceControl: Source control is disabled
+[2020.04.26-09.42.06:896][  0]SourceControl: Source control is disabled
+[2020.04.26-09.42.07:883][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.26-09.42.08:127][  0]LogOcInput: OculusInput pre-init called
+[2020.04.26-09.42.08:150][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.26-09.42.08:150][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.26-09.42.08:332][  0]LogEngine: Initializing Engine...
+[2020.04.26-09.42.08:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-09.42.08:337][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.04.26-09.42.09:142][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.26-09.42.09:192][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.26-09.42.09:221][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-09.42.09:880][  0]LogInit: FAudioDevice initialized.
+[2020.04.26-09.42.09:881][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.26-09.42.10:986][  0]LogDerivedDataCache: Saved boot cache 1.11s 73MB C:/Users/Kalin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.26-09.42.10:990][  0]LogInit: Texture streaming: Enabled
+[2020.04.26-09.42.11:297][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.26-09.42.11:297][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.26-09.42.11:348][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.26-09.42.11:604][  0]LogInit: Transaction tracking system initialized
+[2020.04.26-09.42.11:762][  0]BlueprintLog: New page: Editor Load
+[2020.04.26-09.42.12:239][  0]LocalizationService: Localization service is disabled
+[2020.04.26-09.42.15:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kalin/Documents/GitHub/Mazerator/Content/' took 0.04s
+[2020.04.26-09.42.15:490][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.26-09.42.15:490][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.26-09.42.16:316][  0]SourceControl: Source control is disabled
+[2020.04.26-09.42.16:316][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Content/GameContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-09.42.16:317][  0]LightingResults: New page: Lighting Build
+[2020.04.26-09.42.16:331][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-09.42.16:331][  0]MapCheck: New page: Map Check
+[2020.04.26-09.42.16:332][  0]LightingResults: New page: Lighting Build
+[2020.04.26-09.42.16:404][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.26-09.42.29:165][  0]LogAIModule: Creating AISystem for world Level1
+[2020.04.26-09.42.37:518][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-09.42.37:599][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.26-09.42.37:600][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-09.42.37:600][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.448ms to complete.
+[2020.04.26-09.42.37:600][  0]LogFileHelpers: Loading map 'Level1' took 21.284
+[2020.04.26-09.42.38:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-09.42.38:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-09.42.38:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-09.42.38:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-09.42.38:871][  0]LogCollectionManager: Loaded 0 collections in 0.004606 seconds
+[2020.04.26-09.42.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kalin/Documents/GitHub/Mazerator/Saved/Collections/' took 0.00s
+[2020.04.26-09.42.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kalin/Documents/GitHub/Mazerator/Content/Developers/Kalin/Collections/' took 0.00s
+[2020.04.26-09.42.39:199][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kalin/Documents/GitHub/Mazerator/Content/Collections/' took 0.00s
+[2020.04.26-09.42.39:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2020.04.26-09.42.39:253][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2867 classes and 683 folders.
+[2020.04.26-09.42.39:485][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.26-09.42.40:922][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.26-09.42.41:015][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.04.26-09.42.41:825][  0]LogSlate: Took 0.017370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.26-09.42.41:845][  0]LogSlate: Took 0.014772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.26-09.42.41:908][  0]LogSlate: Took 0.027092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.26-09.42.42:509][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-09.42.43:344][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.26-09.42.43:344][  0]LogLoad: (Engine Initialization) Total time: 55.19 seconds
+[2020.04.26-09.42.43:344][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.26-09.42.43:575][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.04.26-09.42.43:778][  0]LogSlate: Took 0.018495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-09.42.45:193][ 16]LogAssetRegistry: Asset discovery search completed in 44.5329 seconds
+[2020.04.26-09.42.45:202][ 16]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2020.04.26-09.42.45:202][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000188 seconds (updated 0 objects)
+[2020.04.26-09.42.53:086][149]LogEditorViewport: Clicking on Actor (LMB): 400_Easter_Egg_C (400_Easter_Egg)
+[2020.04.26-09.42.59:638][269]Cmd: DELETE
+[2020.04.26-09.42.59:639][269]Cmd: ACTOR DELETE
+[2020.04.26-09.43.00:000][269]LogEditorActor: Deleted Actor: 400_Easter_Egg_C
+[2020.04.26-09.43.00:094][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.04.26-09.43.00:096][269]LogEditorActor: Deleted 1 Actors (0.267 secs)
+[2020.04.26-09.43.21:115][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-09.43.25:601][868]LogSlate: Took 0.067622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-09.43.25:635][868]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameContent/Blueprints/400_Easter_Egg.400_Easter_Egg
+[2020.04.26-09.43.27:174][868]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 121 classes and 0 folders.
+[2020.04.26-09.43.31:211][868]LogSlate: Took 0.018861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.26-09.43.43:382][345]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8EA7F580-47E3-B9C7-4982-5D94BDBAFD2B}
+[2020.04.26-09.45.20:157][186]LogSlate: Window 'Asset Audit' being destroyed
+[2020.04.26-09.45.42:410][186]LogContentBrowser: Verbose: The majority of assets in the view are of type: PackageChunk
+[2020.04.26-09.46.24:486][610]LogSlate: Window 'Size Map' being destroyed
+[2020.04.26-09.49.02:298][697]LogSlate: Took 0.014113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.26-09.49.21:569][ 36]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.26-09.49.31:228][105]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-09.49.32:776][108]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-09.51.43:507][551]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F6FDB71D-4557-AE26-B04B-EB9BF2C34968}
+[2020.04.26-09.53.07:961][318]LogUObjectHash: Compacting FUObjectHashTables data took  16.89ms
+[2020.04.26-09.53.12:854][318]LogSavePackage: Moving '../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Saved/Level1_Auto16F407BDF4BE2B3C2EF79FAAC0FE378DC.tmp' to '../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Saved/Autosaves/Game/GameContent/Maps/Level1_Auto1.umap'
+[2020.04.26-09.53.13:052][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameContent/Maps/Level1' took 5.865
+[2020.04.26-09.53.13:052][318]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.865
+[2020.04.26-09.53.23:879][547]LogUObjectHash: Compacting FUObjectHashTables data took   9.67ms
+[2020.04.26-09.53.25:819][547]LogSavePackage: Moving '../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Saved/Level149CC0C34448499E4A0E7AE878E460A47.tmp' to '../../../../../../Users/Kalin/Documents/GitHub/Mazerator/Content/GameContent/Maps/Level1.umap'
+[2020.04.26-09.54.56:124][811]LogSlate: Window 'ProjectLauncher' being destroyed
+[2020.04.26-09.55.45:621][902]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube374)
+[2020.04.26-09.55.46:696][902]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.26-09.59.48:999][181]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameContent/Blueprints/Board1.Board1
+[2020.04.26-09.59.55:118][237]LogSlate: Window 'Board1' being destroyed
+[2020.04.26-10.00.02:373][474]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-10.00.05:112][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.26-10.00.05:112][478]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-10.00.27:348][593]LogRenderer: Reallocating scene render targets to support 964x448 Format 10 NumSamples 1 (Frame:5949).
+[2020.04.26-10.00.36:699][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.00.40:808][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.00.43:993][685]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:5974).
+[2020.04.26-10.01.04:469][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube375)
+[2020.04.26-10.01.17:878][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-10.01.40:922][810]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameContent/Blueprints/Mouse_GameMode.Mouse_GameMode
+[2020.04.26-10.02.09:100][223]LogSlate: Window 'Mouse_GameMode' being destroyed
+[2020.04.26-10.02.09:109][223]LogSlate: Window 'Mouse_GameMode' being destroyed
+[2020.04.26-10.02.09:140][223]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-10.03.18:868][411]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-10.03.53:032][843]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameContent/Blueprints/400_Easter_Egg.400_Easter_Egg
+[2020.04.26-10.04.53:743][402]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.04.54:394][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.04.55:345][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.04.58:445][404]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.05.01:921][404]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.05.20:789][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.05.21:941][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.07.43:216][486]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'C:/Program Files/Epic Games/UE_4.23/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h'
+[2020.04.26-10.07.54:702][640]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-10.07.58:533][689]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.26-10.08.22:198][166]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.26-10.09.04:147][318]MapCheck: New page: Map Check
+[2020.04.26-10.09.05:909][318]LightingResults: New page: Lighting Build - 26 Apr 2020 12:09:05
+[2020.04.26-10.09.09:671][318]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.26-10.09.33:409][318]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.26-10.09.34:177][318]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.26-10.09.42:142][318]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.04.26-10.09.44:190][318]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.04.26-10.09.53:235][318]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.26-10.09.53:235][318]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3796
+[2020.04.26-10.10.37:256][318]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.04.26-10.10.37:596][318]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.26-10.10.37:596][318]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.26-10.10.37:597][318]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.26-10.10.37:597][318]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.26-10.10.37:597][318]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.26-10.10.39:958][318]LogEditorBuildUtils: Build time 1:34
+[2020.04.26-10.10.41:676][318]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.26-10.10.43:341][318]LogShaderCompilers: Display: Worker (1/1): shaders left to compile 2
+[2020.04.26-10.10.43:341][318]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.26-10.10.44:370][319]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_245, compiling. 
+[2020.04.26-10.10.44:505][319]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_245, compiling. 
+[2020.04.26-10.10.46:343][330]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_358, compiling. 
+[2020.04.26-10.10.46:478][330]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_358, compiling. 
+[2020.04.26-10.10.57:409][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Brick_Wall, compiling. 
+[2020.04.26-10.10.57:458][440]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Brick_Wall, compiling. 
+[2020.04.26-10.10.58:622][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.04.26-10.10.58:680][441]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
