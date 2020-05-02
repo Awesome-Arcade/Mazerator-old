@@ -215,45 +215,44 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Game/FirstPersonBP/Blueprints/FirstPersonGameMode,Blueprint,Soft From Unassigned Package? Best Guess: /Game/FirstPersonBP/Maps/FirstPersonExampleMap->/Game/FirstPersonBP/Blueprints/FirstPersonGameMode,4175,None
 0,/Game/FirstPersonBP/Blueprints/FirstPersonHUD,Blueprint,Soft From Unassigned Package? Best Guess: /Game/FirstPersonBP/Maps/FirstPersonExampleMap->/Game/FirstPersonBP/Blueprints/FirstPersonGameMode->/Game/FirstPersonBP/Blueprints/FirstPersonHUD,7726,None
 0,/Game/FirstPersonBP/Blueprints/FirstPersonProjectile,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/FirstPersonBP/Blueprints/FirstPersonGameMode->/Game/FirstPersonBP/Blueprints/FirstPersonCharacter->/Game/FirstPersonBP/Blueprints/FirstPersonProjectile,13365,None
-0,/Game/GameContent/Blueprints/400_Easter_Egg,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/400_Easter_Egg,3861,None
-0,/Game/GameContent/Blueprints/Board1,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1,7220,None
-0,/Game/GameContent/Blueprints/Board2,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board2,6970,None
-0,/Game/GameContent/Blueprints/Mouse_GameMode,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/MainMenu->/Game/GameContent/Blueprints/Mouse_GameMode,3078,None
-0,/Game/GameContent/Blueprints/Mouse_PlayerController,Blueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/MainMenu->/Game/GameContent/Blueprints/Mouse_GameMode->/Game/GameContent/Blueprints/Mouse_PlayerController,2910,None
-0,/Game/GameContent/Maps/Level1,World,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1,6409265,None
-0,/Game/GameContent/Maps/MainMenu,World,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/MainMenu,7230,None
-0,/Game/GameContent/Materials/Brick_Wall,Material,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Brick_Wall,52221,None
-0,/Game/GameContent/Materials/Cobble_Path,MaterialFunction,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Cobble_Path,3620,None
-0,/Game/GameContent/Materials/Default_LayerInfo,LandscapeLayerInfoObject,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Default_LayerInfo,890,None
-0,/Game/GameContent/Materials/Dirt,MaterialFunction,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Dirt,4424,None
-0,/Game/GameContent/Materials/Landscape,MaterialFunction,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Landscape,5131,None
-0,/Game/GameContent/Materials/LandscapeMaterial,Material,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial,53259,None
-0,/Game/GameContent/Materials/LandscapeMaterial_Inst,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst,4097,None
-0,/Game/GameContent/Materials/Path_LayerInfo,LandscapeLayerInfoObject,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Path_LayerInfo,881,None
-0,/Game/GameContent/Materials/Rusted_Metal,Material,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Rusted_Metal,49393,None
-0,/Game/GameContent/Materials/Stone,MaterialFunction,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Stone,3578,None
-0,/Game/GameContent/Materials/Wood_Spruce,Material,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Wood_Spruce,49324,None
-0,/Game/GameContent/UI/MainMenu,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/MainMenu->/Game/GameContent/UI/MainMenu,11803,None
-0,/Game/StarterContent/Textures/T_Brick_Clay_New_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Brick_Wall->/Game/StarterContent/Textures/T_Brick_Clay_New_D,5593801,None
-0,/Game/StarterContent/Textures/T_Brick_Clay_New_M,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Brick_Wall->/Game/StarterContent/Textures/T_Brick_Clay_New_M,2797652,None
-0,/Game/StarterContent/Textures/T_Brick_Clay_New_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Brick_Wall->/Game/StarterContent/Textures/T_Brick_Clay_New_N,5594166,None
-0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Cobble_Path->/Game/StarterContent/Textures/T_CobbleStone_Pebble_D,5593809,None
-0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_M,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Cobble_Path->/Game/StarterContent/Textures/T_CobbleStone_Pebble_M,2797593,None
-0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Cobble_Path->/Game/StarterContent/Textures/T_CobbleStone_Pebble_N,5594128,None
-0,/Game/StarterContent/Textures/T_Detail_Rocky_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/Brick_Wall->/Game/StarterContent/Textures/T_Detail_Rocky_N,1399776,None
-0,/Game/StarterContent/Textures/T_Ground_Grass_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Landscape->/Game/StarterContent/Textures/T_Ground_Grass_D,2797581,None
-0,/Game/StarterContent/Textures/T_Ground_Grass_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Landscape->/Game/StarterContent/Textures/T_Ground_Grass_N,5594116,None
-0,/Game/StarterContent/Textures/T_MacroVariation,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Cobble_Path->/Game/StarterContent/Textures/T_MacroVariation,2797648,None
-0,/Game/StarterContent/Textures/T_Metal_Gold_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/StarterContent/Textures/T_Metal_Gold_N,5594112,None
-0,/Game/StarterContent/Textures/T_Metal_Rust_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Rusted_Metal->/Game/StarterContent/Textures/T_Metal_Rust_D,5593793,None
-0,/Game/StarterContent/Textures/T_Metal_Rust_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Rusted_Metal->/Game/StarterContent/Textures/T_Metal_Rust_N,5593997,None
-0,/Game/StarterContent/Textures/T_Perlin_Noise_M,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Dirt->/Game/StarterContent/Textures/T_Perlin_Noise_M,2797783,None
-0,/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Materials/LandscapeMaterial_Inst->/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,2797597,None
-0,/Game/StarterContent/Textures/T_Rock_Sandstone_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Dirt->/Game/StarterContent/Textures/T_Rock_Sandstone_D,5593801,None
-0,/Game/StarterContent/Textures/T_Rock_Sandstone_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Materials/LandscapeMaterial->/Game/GameContent/Materials/Dirt->/Game/StarterContent/Textures/T_Rock_Sandstone_N,5594120,None
-0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Wood_Spruce->/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D,5593807,None
-0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Wood_Spruce->/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M,5593807,None
-0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N,Texture2D,Soft From Unassigned Package? Best Guess: /Game/GameContent/Maps/Level1->/Game/GameContent/Blueprints/Board1->/Game/GameContent/Materials/Wood_Spruce->/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N,5594126,None
+2,/Game/GameContent/Blueprints/Board1,Blueprint,Hard,7224,None
+2,/Game/GameContent/Blueprints/Board2,Blueprint,Hard,6974,None
+2,/Game/GameContent/Blueprints/Mouse_GameMode,Blueprint,Hard,3082,None
+2,/Game/GameContent/Blueprints/Mouse_PlayerController,Blueprint,Hard,2914,None
+2,/Game/GameContent/Maps/Level1,World,Hard,6443596,None
+2,/Game/GameContent/Maps/MainMenu,World,Hard,7234,None
+2,/Game/GameContent/Materials/Brick_Wall,Material,Hard,52225,None
+2,/Game/GameContent/Materials/Cobble_Path,MaterialFunction,Hard,3624,None
+2,/Game/GameContent/Materials/Default_LayerInfo,LandscapeLayerInfoObject,Hard,894,None
+2,/Game/GameContent/Materials/Dirt,MaterialFunction,Hard,4428,None
+2,/Game/GameContent/Materials/Landscape,MaterialFunction,Hard,5135,None
+2,/Game/GameContent/Materials/LandscapeMaterial,Material,Hard,53263,None
+2,/Game/GameContent/Materials/LandscapeMaterial_Inst,MaterialInstanceConstant,Hard,4101,None
+2,/Game/GameContent/Materials/Path_LayerInfo,LandscapeLayerInfoObject,Hard,885,None
+2,/Game/GameContent/Materials/Rusted_Metal,Material,Hard,49397,None
+2,/Game/GameContent/Materials/Stone,MaterialFunction,Hard,3582,None
+2,/Game/GameContent/Materials/Wood_Spruce,Material,Hard,49328,None
+2,/Game/GameContent/UI/MainMenu,WidgetBlueprint,Hard,11807,None
+4,/Game/StarterContent/Textures/T_Brick_Clay_New_D,Texture2D,Hard,5593805,None
+4,/Game/StarterContent/Textures/T_Brick_Clay_New_M,Texture2D,Hard,2797656,None
+4,/Game/StarterContent/Textures/T_Brick_Clay_New_N,Texture2D,Hard,5594170,None
+4,/Game/StarterContent/Textures/T_CobbleStone_Pebble_D,Texture2D,Hard,5593813,None
+4,/Game/StarterContent/Textures/T_CobbleStone_Pebble_M,Texture2D,Hard,2797597,None
+4,/Game/StarterContent/Textures/T_CobbleStone_Pebble_N,Texture2D,Hard,5594132,None
+4,/Game/StarterContent/Textures/T_Detail_Rocky_N,Texture2D,Hard,1399780,None
+4,/Game/StarterContent/Textures/T_Ground_Grass_D,Texture2D,Hard,2797585,None
+4,/Game/StarterContent/Textures/T_Ground_Grass_N,Texture2D,Hard,5594120,None
+4,/Game/StarterContent/Textures/T_MacroVariation,Texture2D,Hard,2797652,None
+4,/Game/StarterContent/Textures/T_Metal_Gold_N,Texture2D,Hard,5594116,None
+4,/Game/StarterContent/Textures/T_Metal_Rust_D,Texture2D,Hard,5593797,None
+4,/Game/StarterContent/Textures/T_Metal_Rust_N,Texture2D,Hard,5594001,None
+4,/Game/StarterContent/Textures/T_Perlin_Noise_M,Texture2D,Hard,2797787,None
+4,/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,Texture2D,Hard,2797601,None
+4,/Game/StarterContent/Textures/T_Rock_Sandstone_D,Texture2D,Hard,5593805,None
+4,/Game/StarterContent/Textures/T_Rock_Sandstone_N,Texture2D,Hard,5594124,None
+4,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D,Texture2D,Hard,5593811,None
+4,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M,Texture2D,Hard,5593811,None
+4,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N,Texture2D,Hard,5594130,None
 0,/OculusVR/Materials/OculusMR_ChromaKey,Material,Hard,47980,None
 0,/OculusVR/Materials/OculusMR_ChromaKey_Lit,Material,Hard,179018,None
 0,/OculusVR/Materials/OculusMR_OpaqueColoredMaterial,Material,Hard,8492,None

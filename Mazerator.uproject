@@ -3,13 +3,6 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ParticleText",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0c2d7c278eb645d5b8c3be41e2bc859e"
-		}
-	],
 	"TargetPlatforms": [
 		"Android",
 		"AllDesktop",
